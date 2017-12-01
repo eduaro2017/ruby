@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  fecha_compra: 2017-11-23 22:17:12
+  estado_compra: MyString
+  cantidad_producto: 1
+  descuento: 
+  total_compra: 
+
+two:
+  fecha_compra: 2017-11-23 22:17:12
+  estado_compra: MyString
+  cantidad_producto: 1
+  descuento: 
+  total_compra: 

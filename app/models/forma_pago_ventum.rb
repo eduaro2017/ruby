@@ -1,0 +1,2 @@
+class FormaPagoVentum < ApplicationRecord
+end

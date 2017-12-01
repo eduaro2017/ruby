@@ -1,0 +1,2 @@
+class ItemVentum < ApplicationRecord
+end
