@@ -1,0 +1,2 @@
+class SucursalController < ApplicationController
+end

@@ -1,0 +1,2 @@
+class VentaController < ApplicationController
+end
